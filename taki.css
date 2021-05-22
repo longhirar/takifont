@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Taki';
+	src: url('https://longhirar.github.io/takifont/taki_10.otf') format("opentype");
+}
+
+html * {
+	font-family: 'Taki', 'Arial' !important;
+}
